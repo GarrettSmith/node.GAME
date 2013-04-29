@@ -1,0 +1,15 @@
+{
+  "name": "node.GAME!",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "websocket": "*",
+    "websocket-server": "*",
+    "underscore": "*",
+    "bison": "*",
+    "optimist": "*",
+    "winston": "*",
+    "node-static": "*"
+  },
+  "license": "MIT"
+}
